@@ -1,0 +1,10 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: "Open Sans", sans-serif;
+}
+@media(max-width:600px){
+  #h{
+    display: none;
+  }
+}
